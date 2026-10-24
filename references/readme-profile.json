@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 184｜Hand-drawn Square Everyday Vignette: picks the five to eight most memorable details of a photo and arranges them inside one small square scene box — like a shop window, a kitchen corner or a desk — built from tiles, grids, shelves or a tabletop and broken up by cups, flowers, food and objects. Drawn in naive line and wash: loose, slightly wobbly ink lines, coloured-pencil grain and thin watercolour or gouache that drifts over the lines, in two to four lively colours lifted from the photo against near-white paper, with generous whitespace around the box and a few small hand-set words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-184 or asks for boxed square vignettes, naive line-and-wash still life or cosy everyday illustration from a photo.",
+  "short_description": "方形生活手绘盒景：把照片里的生活细节装进一个方形小场景，用松动线稿和彩铅水彩画出来",
+  "zh-CN": {
+    "name": "方形生活手绘盒景",
+    "tagline": "把照片里的生活细节装进一个方形小场景，用松动线稿和彩铅水彩画出来。",
+    "look": "照片里最值得记住的 5 到 8 个细节被挑出来，装进一个方形的小场景盒子，像橱窗、厨房一角、店铺一角或书桌一角。盒子里用瓷砖、格子、层板或桌面搭出“大方形套小方形”的秩序，再让杯子、花、食物和器物打破规整。画法是细而歪斜的墨线加彩铅颗粒和薄薄的水彩、水粉，颜色会轻微越线、透底。颜色取照片里 2 到 4 种有生活气的色，如奶油黄、番茄红、湖水蓝、草木绿，配大量近白纸色；盒子外留白充足，配几处带手工误差的小字。",
+    "traits": [
+      "方形盒景",
+      "稚拙线稿",
+      "彩铅水彩",
+      "日常静物",
+      "外部留白"
+    ],
+    "good": [
+      "有生活气息的角落和桌面：早餐桌、厨房台面、书桌、咖啡馆一角",
+      "店铺、橱窗和柜台：花店、面包店、杂货铺、小酒馆",
+      "几件小物件摆在一起的静物照：杯子、花瓶、水果、书"
+    ],
+    "poor": [
+      "大远景和开阔风景：山脉、海面、城市天际线，很难装进一个方形小盒",
+      "只有一张人脸、几乎没有物件的特写人像",
+      "想要精确透视、光滑矢量、粗黑轮廓或 3D 渲染的需求"
+    ]
+  },
+  "en": {
+    "name": "Hand-drawn Square Everyday Vignette",
+    "tagline": "Packs a photo's everyday details into one small square scene in loose line and coloured-pencil wash.",
+    "look": "The five to eight most memorable details in your photo are picked out and placed inside a small square scene box, like a shop window, a kitchen corner, a shop counter or a desk. Inside, tiles, grids, shelves or a tabletop set up a square-within-square order that cups, flowers, food and objects then break. It is drawn with thin, slightly crooked ink lines, coloured-pencil grain and thin watercolour or gouache that drifts over the lines and lets the paper show through. Two to four lively colours come from the photo, such as butter yellow, tomato red, lake blue or leaf green, balanced by plenty of near-white paper; the box has generous whitespace around it and a few small, slightly uneven words.",
+    "traits": [
+      "Square scene box",
+      "Naive linework",
+      "Pencil and wash",
+      "Everyday still life",
+      "Outer whitespace"
+    ],
+    "good": [
+      "Lived-in corners and tabletops: a breakfast table, a kitchen counter, a desk, a café corner",
+      "Shops, windows and counters: a florist, a bakery, a corner store, a small bar",
+      "Still lifes of a few small objects together: cups, a vase, fruit, books"
+    ],
+    "poor": [
+      "Distant, open landscapes such as mountain ranges, the sea or a city skyline, which do not fit in a small square box",
+      "Close-up portraits that are just a face with almost no objects",
+      "Requests for exact perspective, smooth vector, heavy black outlines or 3D rendering"
+    ]
+  },
+  "ja": {
+    "name": "正方形の日常手描き小景",
+    "tagline": "写真の暮らしのディテールを正方形の小さな場面に詰め、ゆるい線と色鉛筆、水彩で描きます。",
+    "look": "写真でいちばん記憶に残る細部を五つから八つ選び、ショーウィンドウ、台所の一角、店先、机の上のような正方形の小さな場面の箱に収めます。箱の中はタイル、格子、棚板、テーブルで「大きな四角の中に小さな四角」という秩序をつくり、カップや花、食べ物、器でそれを崩します。描き方は細く少し歪んだ墨線に、色鉛筆の粒子と薄い水彩や不透明水彩を重ねたもので、色は線から少しはみ出し、紙が透けて見えます。色は写真から暮らしの気配のある二から四色、たとえばクリーム色、トマトレッド、湖の青、草木の緑を取り、白に近い紙の色をたっぷり残します。箱の外には十分な余白をとり、手の揺れが残る小さな文字を数か所添えます。",
+    "traits": [
+      "正方形の箱景",
+      "素朴な線画",
+      "色鉛筆と水彩",
+      "日常の静物",
+      "外側の余白"
+    ],
+    "good": [
+      "暮らしの気配がある一角やテーブル：朝食の食卓、台所のカウンター、机、カフェの一角",
+      "店、ショーウィンドウ、カウンター：花屋、パン屋、雑貨店、小さなバー",
+      "小物がいくつか並んだ静物写真：カップ、花瓶、果物、本"
+    ],
+    "poor": [
+      "遠景や開けた風景：山並み、海、街のスカイラインは小さな正方形に収まりにくいです",
+      "顔だけで物がほとんど写っていない人物のアップ",
+      "正確な遠近、滑らかなベクター、太い黒の輪郭線、3D レンダリングを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "정사각형 일상 손그림 소품",
+    "tagline": "사진 속 생활의 디테일을 작은 정사각형 장면에 담아 느슨한 선과 색연필, 수채로 그립니다.",
+    "look": "사진에서 가장 기억할 만한 디테일 다섯에서 여덟 개를 골라 쇼윈도, 부엌 한쪽, 가게 계산대, 책상 위 같은 작은 정사각형 장면 상자에 담습니다. 상자 안은 타일, 격자, 선반, 테이블로 ‘큰 네모 안의 작은 네모’ 질서를 만들고, 컵과 꽃, 음식, 그릇이 그 질서를 흐트러뜨립니다. 가늘고 조금 삐뚤어진 먹선에 색연필 입자와 얇은 수채나 과슈를 올려 그리며, 색은 선 밖으로 살짝 넘치고 종이가 비쳐 보입니다. 색은 사진에서 생활감 있는 두 가지에서 네 가지, 예를 들어 크림 노랑, 토마토 빨강, 호수 파랑, 풀빛 초록을 가져와 흰색에 가까운 종이색과 넉넉히 섞습니다. 상자 바깥에는 여백을 충분히 두고 손맛이 남은 작은 글자를 몇 군데 둡니다.",
+    "traits": [
+      "정사각형 장면 상자",
+      "서툰 선화",
+      "색연필과 수채",
+      "일상 정물",
+      "바깥 여백"
+    ],
+    "good": [
+      "생활감이 있는 구석과 테이블: 아침 식탁, 부엌 조리대, 책상, 카페 한쪽",
+      "가게, 쇼윈도, 계산대: 꽃집, 빵집, 잡화점, 작은 바",
+      "작은 물건 몇 개가 함께 놓인 정물 사진: 컵, 꽃병, 과일, 책"
+    ],
+    "poor": [
+      "멀리 보이는 넓은 풍경: 산맥, 바다, 도시 스카이라인은 작은 정사각형 상자에 담기 어렵습니다",
+      "얼굴만 있고 물건이 거의 없는 인물 클로즈업",
+      "정확한 원근, 매끈한 벡터, 굵은 검은 윤곽선, 3D 렌더링을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "مشهد يومي مرسوم داخل مربع",
+    "tagline": "يجمع تفاصيل الحياة اليومية في الصورة داخل مشهد مربع صغير، مرسوم بخطوط حرة وأقلام ملونة وألوان مائية.",
+    "look": "تُنتقى من صورتك خمس إلى ثماني تفاصيل هي الأجدر بالتذكر، وتوضع داخل صندوق مشهد مربع صغير يشبه واجهة متجر أو ركن مطبخ أو منضدة دكان أو سطح مكتب. في الداخل تصنع البلاطات والشبكات والرفوف أو سطح الطاولة نظام «مربع داخل مربع»، ثم تكسره الأكواب والزهور والطعام والأواني. الرسم بخطوط حبر رفيعة مائلة قليلاً، مع حبيبات الأقلام الملونة وطبقات رقيقة من الألوان المائية أو الغواش تتجاوز الخطوط قليلاً ويظهر الورق من تحتها. تُؤخذ من الصورة لونان إلى أربعة ألوان مفعمة بالحياة، مثل الأصفر الزبدي والأحمر الطماطمي والأزرق البحيري والأخضر العشبي، مع مساحات كثيرة بلون الورق القريب من الأبيض، وفراغ واسع حول الصندوق، وكلمات صغيرة قليلة فيها أثر اليد.",
+    "traits": [
+      "صندوق مشهد مربع",
+      "خطوط عفوية",
+      "أقلام ملونة ومائية",
+      "طبيعة صامتة يومية",
+      "فراغ خارجي"
+    ],
+    "good": [
+      "أركان وطاولات فيها أثر الحياة اليومية: مائدة إفطار، سطح مطبخ، مكتب، ركن مقهى",
+      "المتاجر والواجهات والمنضدات: محل زهور، مخبز، بقالة صغيرة، حانة صغيرة",
+      "صور طبيعة صامتة لعدة أشياء صغيرة معاً: أكواب، مزهرية، فاكهة، كتب"
+    ],
+    "poor": [
+      "المناظر البعيدة المفتوحة مثل سلاسل الجبال والبحر وأفق المدينة، فهي لا تتسع في صندوق مربع صغير",
+      "صور شخصية قريبة لا تُظهر سوى الوجه تقريباً من دون أشياء",
+      "طلب منظور دقيق أو رسم متجهي ناعم أو حدود سوداء سميكة أو تصيير ثلاثي الأبعاد"
+    ]
+  }
+}
